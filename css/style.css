@@ -361,7 +361,7 @@ body{
 .about{
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
-    over-flow: hidden;
+    overflow: hidden;
 }
 .about .about-content{
     margin-top: var(--content-margin);
