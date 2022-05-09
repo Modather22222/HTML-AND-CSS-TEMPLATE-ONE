@@ -493,11 +493,12 @@ body{
 @media(max-width: 767px){
     .contact .info .label,
     .contact .info .link{
-        font-size: 25px
+     font-size: 25px
     }
     
     .contact .info .social i{
         margin-left: 20px;
+        width: 10px;
     }
 }
 
