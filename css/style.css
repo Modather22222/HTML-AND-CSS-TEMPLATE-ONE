@@ -498,7 +498,8 @@ body{
     
     .contact .info .social i{
         margin-left: 20px;
-        width: 10px;
+        width: 5px;
+        Display: block;
     }
 }
 
